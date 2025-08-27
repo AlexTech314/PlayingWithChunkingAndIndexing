@@ -1,0 +1,1 @@
+Playing with chunking and indexing using Docling, Langchain, and other stuff.
