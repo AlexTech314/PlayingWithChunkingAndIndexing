@@ -210,3 +210,5 @@ college_textbook_pdf_dataset/**
 !college_textbook_pdf_dataset/README.md
 
 .DS_Store
+
+propositional_chunks.json
